@@ -12,3 +12,5 @@ The plugin accepts as input a TXT file containing the names of the FASTQ
 files to check.
 
 It will output GOOD and BAD sequences in separate FASTQ files, for each input FASTQ file.
+
+Note: AfterQC is included with this plugin, and is also under the same MIT License, all rights reserved.
