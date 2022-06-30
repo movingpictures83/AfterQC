@@ -1,4 +1,4 @@
-# FASTQC
+# AfterQC
 # Language: C++
 # Input: TXT
 # Output: DIR
