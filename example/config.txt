@@ -1,0 +1,2 @@
+Prefix plugins/AfterQC/example
+Plugin AfterQC inputfile fastqfiles.txt outputfile .
